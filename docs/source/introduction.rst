@@ -27,7 +27,7 @@ Pipeline général
 
 Le pipeline général décrit l'ensemble du processus suivi dans le cadre de ce projet de vision par ordinateur, depuis la collecte des données jusqu'à l'intégration finale dans une interface interactive.
 
-.. image:: ../_static/graphviz (3).svg
+.. image:: ../_static/image.png
    :alt: Pipeline du projet
    :align: center
    :width: 80%
