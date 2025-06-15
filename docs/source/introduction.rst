@@ -22,6 +22,17 @@ Par ailleurs, plusieurs **technologies de pointe** seront mises en œuvre : trai
 
 Ce projet est développé par **Souleymane Diallo** et **Hinimdou Morsia Guitdam**, deux jeunes passionnés par l’**apprentissage automatique** et souhaitant approfondir leur maîtrise de la **vision par ordinateur** à travers une réalisation concrète et utile.
 
+Pipeline général
+================
+
+Le pipeline général décrit l'ensemble du processus suivi dans le cadre de ce projet de vision par ordinateur, depuis la collecte des données jusqu'à l'intégration finale dans une interface interactive.
+
+.. image:: ../_static/graphviz (3).svg
+   :alt: Pipeline du projet
+   :align: center
+   :width: 80%
+
+
 ----
 
 **Illustration du Projet**
