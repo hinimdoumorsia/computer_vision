@@ -58,3 +58,9 @@ Le système fournit des **alertes instantanées** (visuelles et sonores) pour pr
 ├── alert.mp3                   # Son d’alerte
 ├── README.md
 └── requirements.txt            # Dépendances du projet
+
+## Documentation du Projet
+
+Pour plus de détails sur le projet et les tutoriels associés, consultez la documentation complète ici :  
+[Computer Vision Project Documentation](https://computer-vision2.readthedocs.io/en/latest/)
+
