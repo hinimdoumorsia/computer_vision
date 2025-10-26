@@ -41,6 +41,8 @@ Le système fournit des **alertes instantanées** (visuelles et sonores) pour pr
 - Visualisation des résultats et alertes en temps réel
 
 ---
+Pour plus de détails sur le projet et les tutoriels associés, consultez la documentation complète ici :  
+[Computer Vision Project Documentation](https://computer-vision2.readthedocs.io/en/latest/)
 
 ## Organisation du Dépôt
 
@@ -61,6 +63,4 @@ Le système fournit des **alertes instantanées** (visuelles et sonores) pour pr
 
 ## Documentation du Projet
 
-Pour plus de détails sur le projet et les tutoriels associés, consultez la documentation complète ici :  
-[Computer Vision Project Documentation](https://computer-vision2.readthedocs.io/en/latest/)
 
