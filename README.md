@@ -74,7 +74,10 @@ Pour plus de détails sur le projet et les tutoriels associés, consultez la doc
 ├── alert.mp3                   # Son d’alerte
 ├── README.md
 └── requirements.txt            # Dépendances du projet
+```
 
-## Documentation du Projet
+## Contact
 
+Je suis disponible pour toute **collaboration**, **assistance** ou **maintenance de projets**.  
+Vous pouvez me contacter via mon site web : [https://site-web-nodemailer.vercel.app](https://site-web-nodemailer.vercel.app)
 
