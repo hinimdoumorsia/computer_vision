@@ -1,6 +1,20 @@
 # Système de Surveillance Intelligent des Comportements à Risque chez les Personnes Âgées
 
-Une application intelligente en temps réel basée sur la **vision par ordinateur** pour détecter les **chutes**, la **somnolence** et **prédire les chutes imminentes**, dans le but d'améliorer la sécurité et la qualité de vie des personnes âgées.
+# Système de Surveillance Intelligent
+
+Dans le cadre de ce projet, nous avons développé un **système de surveillance intelligent** pour **surveiller les comportements des personnes** en utilisant le **traitement d'images et de vidéos**. Plusieurs jeux de données ont été collectés, provenant de sites spécialisés en **détection de chutes** et de **Kaggle**, afin d’entraîner nos modèles.
+
+## Modèles Implémentés
+
+- **CNN** : analyse l’évolution **spatiale** des images.  
+- **LSTM** : capture l’évolution **temporelle** pour la **prédiction de chutes**.  
+- **YOLOv8** : détection en temps réel des **chutes**.  
+- **SVM & Random Forest** : détection de la **fatigue et de la somnolence**.
+
+## Application
+
+Une **application interactive** a été créée avec **Streamlit**, offrant une surveillance **en temps réel** basée sur la **vision par ordinateur**, pour détecter les **chutes**, la **somnolence**, et **prévoir les chutes imminentes**, dans le but d’**améliorer la sécurité et la qualité de vie des personnes**.
+
 
 ---
 
