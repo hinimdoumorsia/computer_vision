@@ -78,6 +78,12 @@ Pour plus de détails sur le projet et les tutoriels associés, consultez la doc
 
 ## Contact
 
+## Contact
+
 Je suis disponible pour toute **collaboration**, **assistance** ou **maintenance de projets**.  
 Vous pouvez me contacter via mon site web : [https://site-web-nodemailer.vercel.app](https://site-web-nodemailer.vercel.app)
+
+Cordialement,  
+**Hinimdou Morsia Guitdam**
+
 
