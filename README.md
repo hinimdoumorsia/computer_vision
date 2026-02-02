@@ -2,6 +2,22 @@
 
 # Système de Surveillance Intelligent
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-1.x-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-8.x-FF6C37?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAF0lEQVQYV2NggAKGBgYmBgYGBiYGAAAwAE9+CBcUAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVM-Linear%2FRBF-6F42C1?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RandomForest-Tree-4B8BBE?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-Convolutional-FF6F61?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-Recurrent-FF6F61?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-learn-1.x-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReadTheDocs-3.x-007ACC?logo=read-the-docs&logoColor=white" />
+</p>
+
+
 Dans le cadre de ce projet, nous avons développé un **système de surveillance intelligent** pour **surveiller les comportements des personnes** en utilisant le **traitement d'images et de vidéos**. Plusieurs jeux de données ont été collectés, provenant de sites spécialisés en **détection de chutes** et de **Kaggle**, afin d’entraîner nos modèles.
 
 ## Modèles Implémentés
