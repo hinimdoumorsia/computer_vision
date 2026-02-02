@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/CNN-Convolutional-FF6F61?logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/LSTM-Recurrent-FF6F61?logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit-learn-1.x-F7931E?logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/ReadTheDocs-3.x-007ACC?logo=read-the-docs&logoColor=white" />
 </p>
